@@ -31,5 +31,6 @@ export default defineConfig({
       component: './Table',
     },
   ],
+  outputPath: 'build',
   npmClient: 'pnpm',
 });
